@@ -1,0 +1,8 @@
+{
+  "name": "abc-almacenes",
+  "description": "Proyecto Arquitecturas de Nueva Generacion- UNIVERSIDAD DE LOS ANDES",
+  "repository": "https://github.com/mslancheros10/abc-almacenes",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

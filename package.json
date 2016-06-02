@@ -1,0 +1,30 @@
+{
+  "name": "abc-almacenes",
+  "version": "0.2.5",
+  "description": "Proyecto Arquitecturas de Nueva Generacion- UNIVERSIDAD DE LOS ANDES",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "mongodb": "^2.1.21",
+    "mongoose": "^4.4.19",
+    "seneca": "^2.1.0",
+    "seneca-rabbitmq-transport": "^0.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mslancheros10/abc-almacenes"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
